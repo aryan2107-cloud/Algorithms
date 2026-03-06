@@ -1,6 +1,6 @@
 # Algorithms Notes
 
-Handwritten notes covering core algorithms and data structures — created during my Master's in AI at Northeastern University (CS5800).
+Handwritten notes covering core algorithms and data structures — created during my CS5800 course.
 
 ## Topics
 
