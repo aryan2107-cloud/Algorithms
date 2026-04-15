@@ -1,6 +1,6 @@
 # Algorithms
 
-Handwritten notes and practice sets from CS5800 at Northeastern University.
+Handwritten notes and practice sets from my CS500 Algorithms course.
 
 ## Topics
 
