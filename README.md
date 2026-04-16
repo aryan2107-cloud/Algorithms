@@ -1,6 +1,6 @@
 # Algorithms
 
-Handwritten notes and practice sets from my CS500 Algorithms course.
+Handwritten notes and practice sets from my CS5800 Algorithms course.
 
 ## Topics
 
